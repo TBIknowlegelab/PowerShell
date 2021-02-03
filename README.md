@@ -1,1 +1,1 @@
-# PowerShell shared repository
+# PowerShell
