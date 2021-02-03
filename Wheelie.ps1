@@ -1,5 +1,5 @@
 ﻿<#
-  Provided as a courtesy by Arjan Snijders
+  Provided as an example by Serge Zuidinga. Geestelijk vader is Arjen Snijders :)
 #>
 
 Function Wheelie {
